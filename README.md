@@ -1,10 +1,4 @@
-# Práctica 3 - Juego multijugador (2 jugadores)
-
- - **Francisco Javier Abollado**
- - **David Parro Plaza**
- - **Juan Alvarez San Romualdo**
- 
-# Índice 
+# Arkanoid
 
  - [Distribución de archivos](#id0)
  - [Descripción del juego](#id1)
