@@ -91,8 +91,8 @@ game.start()
    **J3.** Jugador recibe los cambios de la sala y los actualiza, para ello tener la función **update_from_sala** (las codificaciones y descodificaciones se explicaran en el siguiente apartado). Finalmente cada jugador hace un refresh del display para actualizar por pantalla los cambios.
 
 <div style="text-align:center;">
-  <image src="/Version-2/images/resumen/sala.jpg" style="width:48%; height:15cm;">
-  <image src="/Version-2/images/resumen/player.jpg" style="width:48%; height:15cm;">
+  <image src="images/resumen/sala.jpg" style="width:48%; height:15cm;">
+  <image src="images/resumen/player.jpg" style="width:48%; height:15cm;">
 </div>
 
 # Codificación de acciones <a name=id3></a>
